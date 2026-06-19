@@ -1,0 +1,9 @@
+a="31.2"
+b=float(a)
+t=type(b)
+c=30
+d="daya"
+e=True
+print(d)
+print(type(d))
+print(t)
